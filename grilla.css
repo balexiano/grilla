@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+ 
+table {
+    background-color: #cccccc;
+    text-align: center;
+    border: 3px solid;
+    width: 600px;
+    border-spacing: 10px; 
+}
+
+td,th {
+    border: 1px solid;
+    padding: 10px;
+}
+
+#fila1 {
+    background-color: #ffcc66;
+}
+
+#fila2 {
+    color: #ffffff;
+    background-color: #666666;
+    border: 2px solid #ffffff;
+}
+
+#celdahtml {
+    border: 2px solid #ff0000;
+}
